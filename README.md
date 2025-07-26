@@ -8,13 +8,13 @@ Atualmente venho desenvolvendo projetos próprios para praticar a coleta, tratam
 
 ---
 
-## 📊 Detalhes do GitHub
+## Detalhes
 
 ![BrenoHenridev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrenoHenridev&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🧠 Habilidades em
+## Habilidades em
 
 ![Análise de Dados](https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-000000?style=for-the-badge&logo=databricks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
