@@ -1,5 +1,3 @@
-from pathlib import Path
-readme_content = """
 # Olá 👋
 
 ## Sobre o Breno
