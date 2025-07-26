@@ -32,12 +32,3 @@ Atualmente venho desenvolvendo projetos próprios para praticar a coleta, tratam
 ---
 
 > “Persistência, lógica e curiosidade: as três chaves para transformar dados em soluções.” 🚀
-"""
-
-# Caminho para salvar o arquivo
-file_path = Path("/mnt/data/README.md")
-
-# Salvar o conteúdo no arquivo
-file_path.write_text(readme_content, encoding="utf-8")
-
-file_path.name
