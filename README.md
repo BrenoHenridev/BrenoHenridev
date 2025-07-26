@@ -1,4 +1,4 @@
-# Olá 👋
+# Olá
 
 ## Sobre o Breno
 
@@ -29,4 +29,4 @@ Atualmente venho desenvolvendo projetos próprios para praticar a coleta, tratam
 
 ---
 
-> “Persistência, lógica e curiosidade: as três chaves para transformar dados em soluções.” 🚀
+> “Persistência, lógica e curiosidade: as três chaves para transformar dados em soluções.”
