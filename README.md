@@ -3,9 +3,7 @@
 ## Sobre o Breno
 
 Sou formando em Engenharia de Produção e atualmente estou me especializando em Análise de Dados. Tenho grande interesse por tecnologia, raciocínio lógico e pela capacidade dos dados de contar histórias e resolver problemas reais.
-
 Sou comunicativo, analítico e estou sempre em busca de novos aprendizados. Tenho experiência com Excel para organização e estruturação de dados, além de estar em constante evolução no uso de ferramentas como Python, Pandas, Power BI e SQL.
-
 Atualmente venho desenvolvendo projetos próprios para praticar a coleta, tratamento e visualização de dados. Já trabalhei com análise de preços de combustíveis em São Paulo e geração de dashboards interativos. Também estou explorando o uso de bibliotecas como Seaborn e Matplotlib para visualizações gráficas.
 
 ---
