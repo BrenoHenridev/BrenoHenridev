@@ -1,6 +1,4 @@
 from pathlib import Path
-
-# Conteúdo do README corrigido com seções preenchidas
 readme_content = """
 # Olá 👋
 
